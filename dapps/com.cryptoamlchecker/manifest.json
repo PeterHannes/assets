@@ -1,0 +1,9 @@
+{
+    "id": "com.cryptoamlchecker",
+    "name": "CryptoAMLChecker",
+    "url": "https://cryptoamlchecker.com",
+    "description": "Professional AML Compliance Verification for Cryptocurrency Wallets.",
+    "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/dapps/com.cryptoamlchecker/logo.png",
+    "categories": ["utilities", "security"],
+    "networks": ["ethereum", "smartchain", "polygon", "arbitrum", "theta", "tron", "solana"]
+}
